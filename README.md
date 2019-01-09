@@ -6,7 +6,7 @@ Actualy it a electronic circuit to maintain water level in tanks whether it full
 If you ever have visit house of your friend or an institute, most of time there is no management of water supply and storage.
 
 ### A tank for water reservation
-[Link](url) and ![Image](29374715-plastic-water-tank.jpg)
+![Image](29374715-plastic-water-tank.jpg)
 
 
 # Header 1
