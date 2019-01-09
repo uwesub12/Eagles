@@ -20,7 +20,7 @@ We design a electroninc circuit which will detect whether water are full or not 
 
 # This is a sketch of the circuit.
 
-![Image](src)
+![Image](DSC_0523.JPG)
 
 ```
 ```
