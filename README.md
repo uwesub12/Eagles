@@ -5,7 +5,7 @@ Actualy it a electronic circuit to maintain water level in tanks whether it full
 
 If you ever have visit house of your friend or an institute, most of time there is no management of water supply and storage.
 
-### A tank for water reservation
+## A tank for water reservation
 ![Image](29374715-plastic-water-tank.jpg)
 
 
@@ -15,10 +15,10 @@ uses.
 
 
 
-# Solution 
+## Solution 
 We design a electroninc circuit which will detect whether water are full or not by notifing the use through mobile phone.
 
-# This is a sketch of the circuit.
+## This is a sketch of the circuit.
 
 ![Image](DSC_0523.JPG)
 
