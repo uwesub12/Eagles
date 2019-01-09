@@ -2,7 +2,7 @@
 This is orgnaization that put effort on how to preserve water in our home are reduce billing cost.
 ## Aqua sensor
 Actualy it a electronic circuit to maintain water level in tanks whether it full, empty or it is on half awy.
-```markdown
+
 If you ever have visit house of your friend or an institute, most of time there is no management of water supply and storage.
 
 ### A tank for water reservation
@@ -22,8 +22,9 @@ If you ever have visit house of your friend or an institute, most of time there 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
+```
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
