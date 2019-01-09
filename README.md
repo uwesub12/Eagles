@@ -22,6 +22,11 @@ We design a electroninc circuit which will detect whether water are full or not 
 
 ![Image](DSC_0523.JPG)
 
+## Prototype to solution
+![Image](DSC_0529.JPG)
+
+![Image](DSC_0527.JPG)
+
 ```
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
