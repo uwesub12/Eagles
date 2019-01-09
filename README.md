@@ -9,19 +9,18 @@ If you ever have visit house of your friend or an institute, most of time there 
 ![Image](29374715-plastic-water-tank.jpg)
 
 
-# Header 1
-## Header 2
-### Header 3
+## Existing Problems
+Water spoilage :As normal citizen how should i know if my tank is full or not to avoid pouring down of water which could be used for other 
+uses.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Solution 
+We design a electroninc circuit which will detect whether water are full or not by notifing the use through mobile phone.
 
-[Link](url) and ![Image](src)
+# This is a sketch of the circuit.
+
+![Image](src)
 
 ```
 ```
